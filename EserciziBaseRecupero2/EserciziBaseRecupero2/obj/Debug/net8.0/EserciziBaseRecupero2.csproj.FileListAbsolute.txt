@@ -1,0 +1,14 @@
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\bin\Debug\net8.0\EserciziBaseRecupero2.exe
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\bin\Debug\net8.0\EserciziBaseRecupero2.deps.json
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\bin\Debug\net8.0\EserciziBaseRecupero2.runtimeconfig.json
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\bin\Debug\net8.0\EserciziBaseRecupero2.dll
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\bin\Debug\net8.0\EserciziBaseRecupero2.pdb
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\EserciziBaseRecupero2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\EserciziBaseRecupero2.AssemblyInfoInputs.cache
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\EserciziBaseRecupero2.AssemblyInfo.cs
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\EserciziBaseRecupero2.csproj.CoreCompileInputs.cache
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\EserciziBaseRecupero2.dll
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\refint\EserciziBaseRecupero2.dll
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\EserciziBaseRecupero2.pdb
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\EserciziBaseRecupero2.genruntimeconfig.cache
+C:\Users\Meeting Gritti Group\Desktop\EserciziBaseRecupero2\EserciziBaseRecupero2\obj\Debug\net8.0\ref\EserciziBaseRecupero2.dll
